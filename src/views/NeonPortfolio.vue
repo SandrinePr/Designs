@@ -110,6 +110,7 @@ const cards = [
   },
 ];
 
+/// het uittypen van mijn naam
 function typeWriter(el, text, speed = 80) {
   let i = 0;
   function type() {
@@ -122,6 +123,8 @@ function typeWriter(el, text, speed = 80) {
   type();
 }
 
+
+///achtergrond - spikkels
 function setupBackgroundCanvas() {
   const canvas = document.getElementById("background-canvas");
   const ctx = canvas.getContext("2d");

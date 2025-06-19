@@ -153,6 +153,9 @@
   text-decoration: underline;
 }
 
+
+
+
 .horizontal-projects {
   width: 100%;
   overflow: hidden;
@@ -234,6 +237,8 @@
   }
 }
 
+
+
 .cv-footer {
   margin-top: auto;
   text-align: center;
@@ -242,6 +247,8 @@
   padding-top: 15px;
   opacity: 0.8;
 }
+
+
 
 .back-button {
   position: fixed;
