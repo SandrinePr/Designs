@@ -101,7 +101,7 @@ const cards = [
     title: "Contact",
     items: [
       { text: "Email: sandrineprumpeler@gmail.com" },
-      { text: "Telefoon: +31 6 34871635" },
+      { text: "Telefoon: +31 6 43781635" },
     ],
     link: {
       url: "https://www.linkedin.com/in/sandrine-prumpeler-9b63bb309/",

@@ -33,7 +33,7 @@
           <h3>Contact</h3>
           <ul>
             <li>Email: <a href="mailto:sandrineprumpeler@gmail.com">sandrineprumpeler@gmail.com</a></li>
-            <li>Telefoon: <a href="tel:+31634871635">+31 6 34871635</a></li>
+            <li>Telefoon: <a href="tel:+31 6 43781635">+31 6 34871635</a></li>
             <li>LinkedIn: <a href="https://linkedin.com/in/sandrine-prumpeler" target="_blank" rel="noopener">linkedin.com/in/sandrine-prumpeler</a></li>
           </ul>
         </article>

@@ -46,7 +46,7 @@
         <article class="card contact" id="contact" aria-label="Contactinformatie">
           <h2>Contact</h2>
           <p>Email: <a href="mailto:sandrineprumpeler@gmail.com">sandrineprumpeler@gmail.com</a></p>
-          <p>Telefoon: <a href="tel:+31634871635">+31 6 34871635</a></p>
+          <p>Telefoon: <a href="tel:+31 6 43781635">+31 6 34871635</a></p>
           <p>LinkedIn: <a href="https://www.linkedin.com/in/sandrine-prumpeler-9b63bb309/" target="_blank" rel="noopener">linkedin.com/in/sandrine-prumpeler</a></p>
         </article>
       </section>
